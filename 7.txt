@@ -1,2 +1,3 @@
 hello, good night
 good morning
+hi, good afternoon
